@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">True Citizen</string>
+    <string name="false_button_name">False</string>
+    <string name="true_button_name">True</string>
+    <string name="image_desc">Image</string>
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+    <string name="textview">TextView</string>
+    <string name="correct_answer">That\'s Correct!</string>
+    <string name="wrong_answer">That\'s Wrong!</string>
+    <string name="q_java"><b>Java</b> is a pure OOP\'s language.</string>
+    <string name="q_taj_mahal"><b>Taj Mahal</b> is one of the 7 wonders of World.</string>
+    <string name="q_android_studio">Android Studio helps to build websites.</string>
+    <string name="q_independence">India got Independence in <i>1947</i>.</string>
+    <string name="q_india">India is famous for its <u>culture</u>.</string>
+    <string name="q_python">Python is popular due to the availability of abundant pre-defined libraries.</string>
+    <string name="q_relation">India have good relations with Pakistan and China. </string>
+    <string name="q_hello"><i><b><u>Namaste</u></b></i> is a Hindi greeting like Hello.</string>
+
+</resources>
